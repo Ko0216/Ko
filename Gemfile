@@ -81,3 +81,5 @@ gem 'devise'
 
 gem 'haml-rails'
 gem 'erb2haml'
+
+gem 'webpacker', github: "rails/webpacker"
